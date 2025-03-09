@@ -22,4 +22,17 @@ conduct indulgent consumption under mortality salience. Symmetrical patterns in 
 arouse feelings of balance, stability, and calmness. In contrast, asymmetrical patterns provide a 
 sense of novelty and rule-breaking. Thus, the research proposed that under mortality salience, high self-esteem 
 people tend to prefer symmetrical designs and patterns, which helps achieve a balanced state. In 
-contrast, low self-esteem people are less likely to prefer symmetrical product designs and artworks.  
+contrast, low self-esteem people are less likely to prefer symmetrical product designs and artworks. The second project (2022) proposed that under the priming of COVID-19 pandemic, the self-discrepancy (i.e., the gap between 
+individuals’ ideal self and actual self) become more distinct. Based on the escape 
+theory and Compensatory Consumer Behavior Model, people tend to increase the 
+escapism from self-discrepancy and conduct compensatory behaviors, which boosts 
+their desire for fantasy appeals and surrealistic things to distract themselves from the 
+real world. The third project (2023) posited that when people feel they are socially excluded (i.e., a state of being 
+alone, isolated, or ostracized by other individuals or social groups), their self-discrepancy 
+(i.e., the gap between the actual self and ideal self) tends to increase, which drives them to 
+conduct compensatory behaviors to fill the gap. As one response mechanism, some people 
+are more likely to immerse in escapism, distract themselves from reality, and engage in 
+distant realms (e.g., hedonic and indulgent consumption). As significant hedonic stimuli, 
+fantasy appeals and surrealistic things tend to facilitate escapism. Thus, the study proposed that 
+individuals are more likely to prefer fantasy appeals and surrealistic cues when socially 
+excluded than in the control situation.  
