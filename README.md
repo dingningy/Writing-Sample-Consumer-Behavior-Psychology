@@ -1,6 +1,6 @@
 # Writing Samples (Consumer Behavior/Psychology)
 ## :writing_hand: Repository Introduction
-As a dedicated researcher with a strong foundation in consumer behavior and psychology, I bring a unique blend of academic rigor, technical expertise, and cross-cultural insights to every project I undertake. My experience spans designing and executing complex experiments and surveys, conducting holistic data analysis, and developing actionable insights that support informed business decision-making. This repository contains selected work from my experiences regarding consumer behavior and psychological research. Specifically, there are three literature review samples and three independent research writing samples. 
+My primary research interests lie in the consumer behavior field, including topics such as Judgment and Decision Making (JDM), Rewards and Motivation, and Pricing Discrimination. As a dedicated researcher with a strong foundation in consumer behavior and psychology, I bring a unique blend of academic rigor, technical expertise, and cross-cultural insights to every project I undertake. My experience spans designing and executing complex experiments and surveys, conducting holistic data analysis, and developing actionable insights that support informed business decision-making. This repository contains selected work from my experiences regarding consumer behavior and psychological research. Specifically, there are three literature review samples and three independent research writing samples. 
 
 ### :card_file_box:Repository Contents
 1. **Consumer Behavior Research Paper**
@@ -35,4 +35,7 @@ are more likely to immerse in escapism, distract themselves from reality, and en
 distant realms (e.g., hedonic and indulgent consumption). As significant hedonic stimuli, 
 fantasy appeals and surrealistic things tend to facilitate escapism. Thus, the study proposed that 
 individuals are more likely to prefer fantasy appeals and surrealistic cues when socially 
-excluded than in the control situation.  
+excluded than in the control situation.
+
+3. **Disney Plus Pricing Strategy Analysis**
+
