@@ -39,10 +39,8 @@ excluded than in the control situation.
 
 3. **Disney Plus Pricing Strategy Analysis**
 - [View the paper](./2023_Disney%20Plus%20Pricing%20Analysis.pdf)
- Specifically, the report first focuses on Disney 
-+ streaming media services and introduces the main 4P strategies, US consumer analysis, and competitor analysis 
-(including cost comparison) of Disney +. Then, the report comprehensively illustrates the pricing mechanism of Disney 
-+’s new pricing strategies following the three main changes and uses Conjoint Analysis to justify and summarize the 
+ Specifically, the report first focuses on Disney + streaming media services and introduces the main 4P strategies, US consumer analysis, and competitor analysis 
+(including cost comparison) of Disney +. Then, the report comprehensively illustrates the pricing mechanism of Disney +’s new pricing strategies following the three main changes and uses Conjoint Analysis to justify and summarize the 
 mechanism. After these, the report analyzes the effects of Disney +’s new pricing structure from the standpoints of the 
 company (profit-driven) and customers (social response). Last but not least, the report brings up the questions that 
 emerged from the new pricing policy and provides future directions for Disney + to compete more effectively.
