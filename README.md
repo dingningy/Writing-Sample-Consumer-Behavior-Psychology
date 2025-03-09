@@ -45,7 +45,8 @@ mechanism. After these, the report analyzes the effects of Disney +’s new pric
 company (profit-driven) and customers (social response). Last but not least, the report brings up the questions that 
 emerged from the new pricing policy and provides future directions for Disney + to compete more effectively.
 
-4. **
+4. **Undergraduate Research Awards: Comparing Pink Tax’s Impact on Female Consumers’ Price Fairness Perception and Buying Intention between Luxury and Utilitarian Products**
+- [View the paper](./2024_Independent%20Research_Pink%20Tax.pdf)
  The pink tax is a gender-based price discrimination in which women are usually charged 
 more than men for products and services with the same efficacy. Previous studies have indicated 
 that women showed significantly lower price fairness perceptions of daily necessities (utilitarian) 
