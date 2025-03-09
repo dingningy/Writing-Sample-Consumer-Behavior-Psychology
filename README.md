@@ -1,6 +1,6 @@
 # Writing Samples (Consumer Behavior/Psychology)
 ## :writing_hand: Repository Introduction
-As a dedicated researcher with a strong foundation in consumer behavior and psychology, I bring a unique blend of academic rigor, technical expertise, and cross-cultural insights to every project I undertake. My experience spans designing and executing complex experiments and surveys, conducting holistic data analysis, and developing actionable insights that support informed business decision-making and resolve real-world challenges such as marketing strategy and gender inequality. This repository contains selected work from my experiences regarding consumer behavior and psychological research. Specifically, there are three literature review samples and three independent research writing samples. 
+As a dedicated researcher with a strong foundation in consumer behavior and psychology, I bring a unique blend of academic rigor, technical expertise, and cross-cultural insights to every project I undertake. My experience spans designing and executing complex experiments and surveys, conducting holistic data analysis, and developing actionable insights that support informed business decision-making. This repository contains selected work from my experiences regarding consumer behavior and psychological research. Specifically, there are three literature review samples and three independent research writing samples. 
 
 ### :card_file_box:Repository Contents
 1. **Consumer Behavior Research Paper**
