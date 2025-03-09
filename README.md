@@ -11,3 +11,15 @@ marketing strategies that reinforce gender stereotypes. Additionally, it analyze
 evolutionary perspective and offered recommendations on the Tinder APP’s optimization of user experiences. The last section of this paper
 compared benign and malicious envy’s different impacts on consumers’ tendency for social comparison and
 leveraged Burberry as an example to discuss insightful business implications for the luxury and fashion industry. 
+
+2. **Selected Consumer Behavior Research Literature Review**
+- [View the paper](./2022-2023_Selected%20Literature%20Reviews.pdf)
+This paper contains three selected literature reviews on the research projects I engaged in, where I built the hypotheses and wrote up complete literature review, designed experiments/surveys to collect data, and performed rigorous data analysis. The first project (2022) posited that Mortality salience has different effects on people with different extent of self-esteem. Under 
+mortality salience, high self-esteem people are more likely to engage in activities that help regain 
+self-control and keep a balanced state while avoiding indulgent consumption and giving-up 
+behaviors. However, low self-esteem people tend to ignore self-esteem-related activities more and 
+conduct indulgent consumption under mortality salience. Symmetrical patterns in product designs 
+arouse feelings of balance, stability, and calmness. In contrast, asymmetrical patterns provide a 
+sense of novelty and rule-breaking. Thus, the research proposed that under mortality salience, high self-esteem 
+people tend to prefer symmetrical designs and patterns, which helps achieve a balanced state. In 
+contrast, low self-esteem people are less likely to prefer symmetrical product designs and artworks.  
