@@ -66,3 +66,10 @@ under the pink tax. This study contributes to a more comprehensive understanding
 negative impacts on female consumers’ purchase decision-making and work attitudes as employees, 
 calling for companies to engage in practices that eliminate the pink tax and human resource 
 management to narrow the gender pay gap and alleviate the pink tax’s economic burden on women.
+
+5. **Measuring Self-Discrepancy: A Critical Review and Comparison of Three Psychological Scales Identifying the Gap Between Actual Self and Ideal Self**
+- [View the paper](./2025_Self%20Discrepancy%20Scale%20Review.pdf)
+This 
+paper reviews three psychological measurements of self-discrepancy from different time 
+frames with respective strengths and limitations, aiming to provide application advice in 
+different populations and contexts based on each’s reliabilities and validities. 
