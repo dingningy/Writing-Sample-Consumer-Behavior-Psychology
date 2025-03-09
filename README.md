@@ -74,8 +74,7 @@ paper reviews three psychological measurements of self-discrepancy from differen
 frames with respective strengths and limitations, aiming to provide application advice in 
 different populations and contexts based on each’s reliabilities and validities.
 
-6. **Assessing Self-Efficacy Among University Students:  
-Development and Validation of a Specialized Scale**
+6. **Assessing Self-Efficacy Among University Students: Development and Validation of a Specialized Scale**
 - [View the paper](./2025_University%20Student%20Self%20Efficacy%20Scale%20Development%20and%20Validation.pdf)
 Self-efficacy has significant impacts on university students’ academic performances, 
 motivational goals, and mental health outcomes. While previous studies have established 
