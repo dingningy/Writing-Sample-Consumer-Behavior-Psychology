@@ -72,4 +72,27 @@ management to narrow the gender pay gap and alleviate the pink tax’s economic 
 This 
 paper reviews three psychological measurements of self-discrepancy from different time 
 frames with respective strengths and limitations, aiming to provide application advice in 
-different populations and contexts based on each’s reliabilities and validities. 
+different populations and contexts based on each’s reliabilities and validities.
+
+6. **Assessing Self-Efficacy Among University Students:  
+Development and Validation of a Specialized Scale**
+- [View the paper](./2025_University%20Student%20Self%20Efficacy%20Scale%20Development%20and%20Validation.pdf)
+Self-efficacy has significant impacts on university students’ academic performances, 
+motivational goals, and mental health outcomes. While previous studies have established 
+validated scales to measure university students’ self-efficacy, most convergently focused on 
+academic self-efficacy, ignoring other domains such as general and social self-efficacy. This 
+study developed and validated a new measure of university students’ self-efficacy (USSE) by 
+including three domains: General, academic, and social self-efficacy, while reducing the 
+number of items to facilitate response efficiency and lower participant fatigue.  
+A convenience sample of 17 students from the University of Chicago participated in 
+the pilot study. The results indicated strong reliability of the USSE, with a Cronbach's alpha 
+of 0.95 for the overall scale and high alphas for individual items. Concurrent validity was 
+supported by a moderate correlation between USSE and the General Self-Efficacy Scale 
+(GSE). Convergent validity was acceptable given the moderate correlation with the short 
+Academic Motivation Scale (SAMS), while discriminant validity was evidenced by a weak 
+negative correlation with the Interpersonal Reactivity Index (IRI) that measures empathy. 
+This study contributes to valuable insights of the scale development and validation of 
+university students’ self-efficacy, providing significant implications for psychologists and 
+educators to consider a more comprehensive and accurate measurement of self-efficacy in 
+higher education, which will ultimately lead to more informed interventions and support 
+systems. 
